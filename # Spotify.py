@@ -2,6 +2,7 @@
 
 
 import pyautogui
+import custumtkinter
 
 # ira clicar no botao windows
 pyautogui.press('win')
